@@ -6,6 +6,7 @@ import vueDevTools from 'vite-plugin-vue-devtools'
 
 // https://vitejs.dev/config/
 export default defineConfig({
+  base: '/HS_lesson_vite-practice/',
   plugins: [
     vue(),
     vueDevTools(),
