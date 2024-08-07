@@ -1,5 +1,5 @@
 <script setup>
-import test from './test.vue'
+import test from './LessonTest.vue'
 
 defineProps({
   msg: {
